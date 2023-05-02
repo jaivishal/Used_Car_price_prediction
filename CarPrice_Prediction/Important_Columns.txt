@@ -1,0 +1,8 @@
+Power
+Year
+Engine
+Kilometers_Driven
+Name
+Mileage
+Location
+Seats
